@@ -1,7 +1,6 @@
 # 💫 About Me:
 ✨ Hey, my name is Denys!<br>
-🌎 I'm 21 years old developer from Ukraine. <br>
-👷 Currently working as `Angular 2` developer.
+🌎 I'm 22 years old engineer from Ukraine. <br>
 
 
 ## 🌐 Socials:
